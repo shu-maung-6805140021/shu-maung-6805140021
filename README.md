@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋 I'm Shu Maung
+# My Student ID number is 6805140021
 
-<!--
-**shu-maung-6805140021/shu-maung-6805140021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Activity Graph
 
-Here are some ideas to get you started:
+[![Graph](https://github-readme-activity-graph.vercel.app/graph?username=shu-maung-6805140021&theme=tokyo-night)](https://github.com/shu-maung-6805140021)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer"/>
+</div>
+
